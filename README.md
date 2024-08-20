@@ -1,1 +1,1 @@
-"# self_study2024" 
+"# self_study2024"
